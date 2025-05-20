@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818939094945",
+    "project_id": "plantscanner-810fb",
+    "storage_bucket": "plantscanner-810fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818939094945:android:b6d151b8f82a004197cde0",
+        "android_client_info": {
+          "package_name": "com.example.plantscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHANgi0TdELo2AR-Cp5GA7SIqMr_MuC0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
